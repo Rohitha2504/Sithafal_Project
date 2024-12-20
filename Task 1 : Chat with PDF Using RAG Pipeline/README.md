@@ -5,7 +5,7 @@
 The RAG pipeline project extracts, processes, and retrieves relevant information from semi-structured data sources like PDFs using a combination of natural language processing (NLP) models and vector-based retrieval systems. It answers user queries through a web interface by leveraging language models.
 
 ##Watch below video for more guidance
-https://youtu.be/3Rj99_EZic8
+##https://youtu.be/3Rj99_EZic8
 
 ## Project Structure
 ```
